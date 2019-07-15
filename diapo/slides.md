@@ -217,7 +217,15 @@ $ git push origin master
 
 ]
 
-
+---
+##Interface graphique
+.center[
+<img src="img/GitKraken-Git.png"
+		 height="500px" class="framed">
+		 ]
+.footnote[
+	.ref[[tecmint](https://www.tecmint.com/best-gui-git-clients-git-repository-viewers-for-linux/)]
+]
 ---
 template: contentleft
 
