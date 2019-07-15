@@ -16,9 +16,7 @@ template: contentleft
 
   *  Citer les types de fichiers que Git peut prendre en charge.
 
-  *  Appliquer les principales commandes Git.
-
-  *  Créer et alimenter un dépôt distant sur Gitlab.
+  *  Montrer les principales commandes Git.
 
   *  Explorer un dépôt Git existant.
 
