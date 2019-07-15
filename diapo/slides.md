@@ -289,7 +289,9 @@ template: contentleft
   * lié code et documentation 
   * gardé une trace des différentes versions et modifications
   *  facilite le travaille collaboratif
+
 ###Inconvénient :
+
   * peut parfois etre complexe pour des utilisations avancés		
 
 ---
