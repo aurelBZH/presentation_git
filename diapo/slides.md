@@ -316,5 +316,8 @@ Lire les articles du blog de Christophe Ducamp :
 * [GitHub Pour les Nuls : Pas de Panique, Lancez-Vous ! (Première Partie)](https://www.christopheducamp.com/2013/12/15/github-pour-nuls-partie-1/)
 * [GitHub pour les Débutants : Consignez, Poussez et Foncez !](https://www.christopheducamp.com/2013/12/16/github-pour-nuls-partie-2/)
 
----
+le code de la présentation est trouvable sur mon github : https://github.com/aurelBZH/presentation_git
 
+la présentation est visible à l'adresse : https://aurelbzh.github.io/diapo/
+
+le gitlab de l'équipe ( en alpha ) : http://gitlab.i3lab.cloud/
