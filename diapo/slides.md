@@ -287,16 +287,24 @@ template: contentleft
 ###Avantage :
 
   * permet de centraliser le code en un même endroit
-  * lié code et documentation 
-  * gardé une trace des différentes versions et modifications
+  * lie code et documentation 
+  * garde une trace des différentes versions et modifications
   *  facilite le travaille collaboratif
-
+  *  permet de partager le code dans le cadre d'une publication
+  
 ###Inconvénient :
 
   * peut parfois etre complexe pour des utilisations avancés		
+---
+.center[
+<img width="400" height="600" src="img/XKCD__git__1597__CC-BY-NC.png" alt="xkcd git">
+]
+.footnote[.ref[
+	Source : [xkcd](https://xkcd.com/1597/)
+]]
 
 ---
-## Ressources
+## Ressources :
 Ma principale source pour cette introduction : 
 * [Introduction a Git et Github](https://github.com/omics-school/git-github) par Pierre Poulain Pour Duomiques
 
