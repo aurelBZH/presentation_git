@@ -242,9 +242,10 @@ Le plus souvent des fichiers *texte* de taille *raisonnable* :
 
 
 ---
-
+.center[
 <img src="img/ten-simple-rules-repro-comput-research.png"
 		 height="600px" class="framed">
+		 ]
 .footnote[
 	.ref[[DOI 10.1371/journal.pcbi.1003285](https://doi.org/10.1371/journal.pcbi.1003285)]
 ]
